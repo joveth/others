@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://yuexiao-yun.supwisdom.com/app/yunnan.ipa</string>
+					<string>https://www.baidu.com/</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://yuexiao-yun.supwisdom.com/image/icon-yunnan-60.png</string>
+					<string>https://www.baidu.com/</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://yuexiao-yun.supwisdom.com/image/icon-yunnan-512.png</string>
+					<string>https://www.baidu.com/</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.yunnan.supwisdom.yuexiao</string>
 				<key>bundle-version</key>
-				<string>1.50</string>
+				<string>1.54</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>yunnan</string>
+				<string>yktapp</string>
 			</dict>
 		</dict>
 	</array>
